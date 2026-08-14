@@ -40,13 +40,15 @@
 
 <h3 align="center">⚙️ Backend & Databases</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgres,oracle,redis" />
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis" />
+  <img src="assets/oracle.svg" title="Oracle" alt="Oracle" width="48" height="48" />
 </p>
 
 <h3 align="center">🔌 IoT & Embedded</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp" />
-  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 </p>
 
 <h3 align="center">🔗 Protocols & Real-Time</h3>
