@@ -60,7 +60,7 @@
 
 <h3 align="center">🧰 Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,dart,git,github,figma,vscode" />
 </p>
 
 ---
