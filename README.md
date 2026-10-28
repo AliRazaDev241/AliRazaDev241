@@ -34,13 +34,15 @@
 
 <h3 align="center">📱 Mobile & Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,tailwind" />
 </p>
 
 <h3 align="center">⚙️ Backend & Databases</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=fastapi,postgres,redis" />
   <img src="assets/oracle.svg" title="Oracle" alt="Oracle" width="48" height="48" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" alt="Neon" />
+  <img src="https://img.shields.io/badge/Blockchain-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain" />
 </p>
 
 <h3 align="center">🔌 IoT & Embedded</h3>
@@ -50,16 +52,15 @@
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
 </p>
 
-<h3 align="center">🔗 Protocols & Real-Time</h3>
+<h3 align="center">🧩 Hardware</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
 </p>
 
 <h3 align="center">🧰 Languages & Tools</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,dart,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,figma,docker,kubernetes" />
 </p>
 
 ---
